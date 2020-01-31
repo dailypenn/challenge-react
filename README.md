@@ -28,6 +28,10 @@ building out the website is completely up to you!
 Note: This project is boostrapped with Create React App (CRA), so hot-reloading has been configured. This means after you run yarn start or npm start, the application will be recompiled automatically after a file is edited. 
 
 ## Requirements
-- We want you to duplicate the general functionality of this [quiz](https://www.underthebutton.com/article/2020/01/parents-obligated-talk)
-- We have provided data.js, which contains an object with properties questions and responses. In our example we provided only questions with four options, A, B, C and D, but we want you to support adding more options with different names (i.e. A, B, Z, H or First, Second, Third).
-- There are no requirements on how you map from quiz responses to results other than that it be reproducible and seem random.
+- We want you to duplicate the functionality of this [quiz](https://www.underthebutton.com/article/2020/01/parents-obligated-talk). This means showing each of the questions with their options as a form that people can fill out and submit for a response.
+- Your code should injest data.json for content to show in the form. If we edit data.json, your website should update appropriately.
+- The questions in data.json have four options (A, B, C, D). Do not assume this invariant - questions can have more than four options, and their property names do not have to be letters.
+- Your quiz should be functional. The response shown doesn. I't have to match UTB's actual form, but it should atleast be reproducible. Selecting answers and submitting should show one of the responses. Reloading the page and selecting the same answers should show the same response. 
+
+## Submission
+- Either fork this repository and commit your changes to your fork, and submit the link to your fork, or zip your repository and send it to chen@dailypennsylvanian.com
