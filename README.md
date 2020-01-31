@@ -16,7 +16,7 @@ Angular, Vue, Preact, Elm, Svelte (or one of the thousand other competing framew
 you at your best, so use whatever tooling you're most comfortable with!
 
 In this challenge, you'll be building something you may have seen before:
-a quiz for [Under the Button](https://www.underthebutton.com/). We'll be
+a quiz for [Under the Button](https://www.underthebutton.com/article/2020/01/parents-obligated-talk). We'll be
 providing you with the quiz's content in a file called data.js, but
 building out the website is completely up to you!
 
@@ -31,7 +31,10 @@ Note: This project is boostrapped with Create React App (CRA), so hot-reloading 
 - We want you to duplicate the functionality of this [quiz](https://www.underthebutton.com/article/2020/01/parents-obligated-talk). This means showing each of the questions with their options as a form that people can fill out and submit for a response.
 - Your code should injest data.json for content to show in the form. If we edit data.json, your website should update appropriately.
 - The questions in data.json have four options (A, B, C, D). Do not assume this invariant - questions can have more than four options, and their property names do not have to be letters.
-- Your quiz should be functional. The response shown doesn. I't have to match UTB's actual form, but it should atleast be reproducible. Selecting answers and submitting should show one of the responses. Reloading the page and selecting the same answers should show the same response. 
+- Your quiz should be functional. The response shown doesn't have to match UTB's actual form, but it should atleast be reproducible. Selecting answers and submitting should show one of the responses. Reloading the page and selecting the same answers should show the same response. 
+
+## Getting Help**
+If you have any questions about the challenge or need some help, send an email to **Peter Chen** (cbaile@seas) or **Daniel Tao** (dtao@seas)
 
 ## Submission
-- Either fork this repository and commit your changes to your fork, and submit the link to your fork, or zip your repository and send it to chen@dailypennsylvanian.com
+Either fork this repository and commit your changes to your fork, and submit the link to your fork, or zip your repository and send it to **chen@dailypennsylvanian.com** by Sunday, Feb 2 at 11:59pm.
