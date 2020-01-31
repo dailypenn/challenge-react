@@ -33,7 +33,7 @@ Note: This project is boostrapped with Create React App (CRA), so hot-reloading 
 - The questions in data.json have four options (A, B, C, D). Do not assume this invariant - questions can have more than four options, and their property names do not have to be letters.
 - Your quiz should be functional. The response shown doesn't have to match UTB's actual form, but it should atleast be reproducible. Selecting answers and submitting should show one of the responses. Reloading the page and selecting the same answers should show the same response. 
 
-## Getting Help**
+## Getting Help
 If you have any questions about the challenge or need some help, send an email to **Peter Chen** (cbaile@seas) or **Daniel Tao** (dtao@seas)
 
 ## Submission
