@@ -28,7 +28,7 @@ Note: This project is boostrapped with Create React App (CRA), so hot-reloading 
 
 ### General Requirements
 - We want you to duplicate the functionality of this [quiz](https://www.underthebutton.com/article/2020/01/parents-obligated-talk). This means showing each question with its options as a form that people can fill out and submit for a response.
-- Your code should use the variable `data.json` in `index.js` as the content to show in the form.
+- Your code should use `data.json` under `/src` as the content to show in the form.
 - Do not **hardcode** anything as we will edit `data.json` and do some simple tests. Any edit to `data.json` takes the following forms: 1) changing the number of questions 2) changing the number of options to each question 3) changing the number of results 4) changing the text of any question, option, or result. You can assume that `data.json` will be well-formatted.
 - Your quiz should be functional. The response shown doesn't have to match UTB's actual form, but it should at least be reproducible. Selecting answers and submitting should show one of the responses. Reloading the page and selecting the same answers should show the same response. 
 
