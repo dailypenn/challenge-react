@@ -20,7 +20,7 @@ a quiz for [Under the Button](https://www.underthebutton.com/article/2020/01/par
 ### Getting Started
 - Make a copy of this repository by either running `git clone https://github.com/dailypenn/f20-challenge-react` on your local computer or simply click on the Green **Clone or download** button and then click on **Download ZIP**.
 - Navigate to the cloned repo in the terminal and run `npm install` or `yarn install`
-- Run `npm start` or `yarn start`
+- Run `npm run start` or `yarn start`
 
 Note: This project is boostrapped with Create React App (CRA), so hot-reloading has been configured. This means after you run yarn start or npm start, the application will be recompiled automatically after a file is edited. 
 
@@ -76,4 +76,4 @@ Either one of the following will work
 
 Besides your working code, please also take some time to complete `Submissions.txt` so we can have a better understanding of how you feel about the challenge.
 
-All submissions should be emailed to **chen@dailypennsylvanian.com** by Wednesday, Sep 23rd at 11:59pm.
+All submissions should be emailed to **chen@dailypennsylvanian.com** by **Wednesday, Sep 23rd at 11:59pm**.
