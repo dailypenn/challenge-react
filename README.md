@@ -1,4 +1,4 @@
-# Fall '20 React Challenge
+# Spring '21 React Challenge
 
 Hey there! Welcome to the DP's web dev challenge~
 
@@ -8,7 +8,7 @@ The goal of this challenge is for you to demonstrate the ability to:
 2. Build products with minimal direction
 3. Work within a set timeline
 
-Using React is by no means a requirement for this challenge, you can find starter code for completing this challenge in pure html, jquery, and css [here](https://github.com/dailypenn/f20-challenge). If you're more comfortable completing this challenge using some other frontend library or framework like Angular, Vue, Preact, Elm, Svelte (or one of the thousand other competing frameworks out there) or anything else really, go ahead! We want to judge you at your best, so use whatever tooling you're most comfortable with!
+Using React is by no means a requirement for this challenge, you can find starter code for completing this challenge in pure html, jquery, and css [here](https://github.com/dailypenn/challenge). If you're more comfortable completing this challenge using some other frontend library or framework like Angular, Vue, Preact, Elm, Svelte (or one of the thousand other competing frameworks out there) or anything else really, go ahead! We want to judge you at your best, so use whatever tooling you're most comfortable with!
 
 Also, remeber that at DP, we do not judge anyone by his/ her initial performances. Instead, what we value is the progress you made from the moment you received your challenge to the moment your turned in your code. So put efforts into the challenge and good luck.
 
@@ -18,7 +18,7 @@ a quiz for [Under the Button](https://www.underthebutton.com/article/2020/01/par
 ---
 
 ### Getting Started
-- Make a copy of this repository by either running `git clone https://github.com/dailypenn/f20-challenge-react` on your local computer or simply click on the Green **Clone or download** button and then click on **Download ZIP**.
+- Make a copy of this repository by either running `git clone https://github.com/dailypenn/challenge-react.git` on your local computer or simply click on the Green **Code** button and then click on **Download ZIP**.
 - Navigate to the cloned repo in the terminal and run `npm install` or `yarn install`
 - Run `npm run start` or `yarn start`
 
@@ -65,7 +65,7 @@ Note: This project is boostrapped with Create React App (CRA), so hot-reloading 
 ---
 
 ### Getting Help
-If you have any questions about the challenge or need some help, send an email to **Peter Chen** (chen@dailypennsylvanian.com) or **Daniel Tao** (dtao@seas.upenn.edu)
+If you have any questions about the challenge or need some help, send an email to **Peter Chen** (chen@dailypennsylvanian.com)
 
 ---
 
