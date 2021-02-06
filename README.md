@@ -76,4 +76,4 @@ Either one of the following will work
 
 Besides your working code, please also take some time to complete `Submissions.txt` so we can have a better understanding of how you feel about the challenge.
 
-All submissions should be emailed to **chen@dailypennsylvanian.com** by **Wednesday, Sep 23rd at 11:59pm**.
+All submissions should be emailed to **chen@dailypennsylvanian.com** by **Thursday, Feb 11 at 11:59pm**.
