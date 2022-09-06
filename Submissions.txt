@@ -1,0 +1,7 @@
+1. How many hours did you spend on this challenge?
+
+2. Describe the features you have implemented.
+
+3. Describe the difficulties you faced (if any) while working on the challenge and how you tackled them.
+
+4. How much time can you spend each week working for DP Developers?
