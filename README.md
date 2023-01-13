@@ -1,4 +1,5 @@
 # Spring '23 React Challenge
+### Applications will open very soon!
 
 Hey there! Welcome to the DP's web dev challenge~
 
