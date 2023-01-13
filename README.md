@@ -65,7 +65,7 @@ Note: This project is boostrapped with Create React App (CRA), so hot-reloading 
 ---
 
 ### Getting Help
-If you have any questions about the challenge or need some help, send an email to **Raunaq Singh** (singh@dailypennsylvanian.com)
+If you have any questions about the challenge or need some help, send an email to **Bach Tran** (engineeringmanager@dailypennsylvanian.com)
 
 ---
 
