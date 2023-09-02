@@ -1,4 +1,4 @@
-# Spring '23 React Challenge
+# Fall '23 React Challenge
 
 Hey there! Welcome to the DP's web dev challenge~
 
